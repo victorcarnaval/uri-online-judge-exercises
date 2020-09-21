@@ -17,6 +17,6 @@ while n > 0:
     if years > 100:
         print('Mais de 1 seculo.')
     else:
-        print('%d anos' %years)
+        print('%d anos.' %years)
         
     n -= 1
